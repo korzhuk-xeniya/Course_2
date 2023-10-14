@@ -10,7 +10,7 @@ import pro.sky.java.course2.service.QuestionService;
 import java.util.Collection;
 
 @RestController
-@RequestMapping("/exam/java")
+@RequestMapping("/java")
 //@RequestMapping(path = "/java")
 public class JavaController {
     private QuestionService service;
