@@ -1,4 +1,4 @@
-package pro.sky.java.course2;
+package pro.sky.java.course2.dto;
 
 import java.util.Objects;
 
